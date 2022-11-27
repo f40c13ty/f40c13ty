@@ -6,7 +6,11 @@
 
 # Social Medias
 
-<img src="https://skillicons.dev/icons?i=discord,github" />
+[1.2]: "https://skillicons.dev/icons?i=discord"
+[2.2]: "https://skillicons.dev/icons?i=github"
+
+[1]: "https://discord.com/users/Reaxo#0099"
+[2]: "github.com/imReaxo"
 
 # Skills
 
