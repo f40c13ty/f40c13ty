@@ -13,7 +13,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,ruby,linux,django,wordpress,flask,arduino,raspberrypi,bots,vscode,visualstudio,atom,unrealengine,photoshop,premiere,illustrator)](https://skillicons.dev)
 
-# Social Medias
+# Social Networks
 
 [![Discord][1.2]][1] [![Telegram][4.2]][4]
 
