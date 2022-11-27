@@ -2,34 +2,26 @@
 
 <img src="https://user-images.githubusercontent.com/110986239/200184666-6092a345-766f-40ef-9caa-4978e4b44da0.png">
 
-it's Reaxo 😀
+# 👨‍💻 imReaxo Python , TelegramBot , Discord and IOT Developer and White hat hacker
 
-> INTP
+# Social Medias
 
+<img src="https://skillicons.dev/icons?i=discord,github" />
 
-🏮 Languages that I am learning or know :
-* Python
-* Html
-* Css
-* Js
-* Ruby
-* React Js
+# Skills
 
-My hobbies are :
-* Programming 🐍
-* Playing Game 😎
-* Studying 👌
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,ruby,linux,django,wordpress,flask,arduino,raspberrypi,bots,vscode,visualstudio,atom,unrealengine,photoshop,premiere,illustrator)](https://skillicons.dev)
 
 
-What field do I work in?
-* Creating Discord and Telegram bots and creating a site with Word Press, HTML and CSS
+<details close="true">
+  <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
-How to Call me:
-* Call me in discord Reaxo#0099
-
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=ImReaxo&show_icons=true&theme=radical)](https://github.com/imReaxo)
-
-
-
-
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+  <div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=imReaxo&show_icons=true&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imReaxo&hide=html&layout=compact&theme=highcontrast" />
+ </div>
+ 
+ 
+ </details>
