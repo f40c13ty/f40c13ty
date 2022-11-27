@@ -11,7 +11,7 @@
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,ruby,linux,django,wordpress,flask,arduino,raspberrypi,bots,vscode,visualstudio,atom,unrealengine,photoshop,premiere,illustrator,belender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,ruby,linux,django,wordpress,flask,arduino,raspberrypi,bots,vscode,visualstudio,atom,unrealengine,photoshop,premiere,illustrator,blender)](https://skillicons.dev)
 
 # Social Networks
 
