@@ -21,7 +21,7 @@
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
 [1]: https://discord.com/users/971073226396540928
-[4]: https://telegram.me/ReaxoIsHere
+[4]: https://telegram.me/ImPooYeSh
 
 * My social networks to connect with me
 
