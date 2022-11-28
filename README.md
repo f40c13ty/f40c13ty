@@ -11,7 +11,7 @@
   👨‍💻 imReaxo Python , Bot and IOT Developer , White hat hacker
 <p align="center">
 
-# Skills
+# My Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,java,html,css,bootstrap,ruby,c,cpp,cs,ts,linux,django,react,wordpress,flask,androidstudio,arduino,raspberrypi,bots,vscode,visualstudio,atom,unrealengine,photoshop,premiere,illustrator,audition,xd,blender" />
@@ -20,7 +20,7 @@
 <p align="center">
   
   
-# Social Networks
+# My Social Networks
 
 [![Discord][1.2]][1] [![Telegram][4.2]][4]
 
