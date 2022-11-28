@@ -1,18 +1,25 @@
-### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/110986239/200184666-6092a345-766f-40ef-9caa-4978e4b44da0.png">
+<p align="center">
+  Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
+<p align="center">
 
 
 
 
-<img src="https://user-images.githubusercontent.com/110986239/200184666-6092a345-766f-40ef-9caa-4978e4b44da0.png">
-
-
-# **👨‍💻 imReaxo Python , TelegramBot , Discord and IOT Developer and White hat hacker**
-
+<p align="center">
+  👨‍💻 imReaxo Python , Bot and IOT Developer , White hat hacker
+<p align="center">
 
 # Skills
-
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,ruby,linux,django,wordpress,flask,arduino,raspberrypi,bots,vscode,visualstudio,atom,unrealengine,photoshop,premiere,illustrator,blender)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,java,html,css,bootstrap,ruby,c,cpp,cs,ts,linux,django,react,wordpress,flask,androidstudio,arduino,raspberrypi,bots,vscode,visualstudio,atom,unrealengine,photoshop,premiere,illustrator,audition,xd,blender" />
+  </a>
+</p>
+<p align="center">
+  
+  
 # Social Networks
 
 [![Discord][1.2]][1] [![Telegram][4.2]][4]
