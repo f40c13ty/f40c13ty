@@ -14,7 +14,7 @@
 # My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,java,html,css,linux,wordpress,raspberrypi,bots,vscode,visualstudio,atom,unrealengine,photoshop,premiere,illustrator,audition,xd" />
+    <img src="https://skillicons.dev/icons?i=python,js,java,html,css,linux,wordpress,raspberrypi,bots,vscode,photoshop,premiere,illustrator,audition,xd" />
   </a>
 </p>
 <p align="center">
