@@ -4,10 +4,6 @@
 <p align="center">
 
 
-
-
-#imReaxo Python , Bot and IOT Developer , White hat hacker
-
 # My Skills
 <p align="center">
   <a href="https://skillicons.dev">
