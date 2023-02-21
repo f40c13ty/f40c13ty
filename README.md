@@ -1,12 +1,12 @@
 <p align="center">
-  **Hello there** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
+  *Hello there* <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
 <p align="center">
 
 
 
 
 <p align="center">
-  👨‍💻 **imReaxo Python , Bot and IOT Developer , White hat hacker**
+  👨‍💻 *imReaxo Python , Bot and IOT Developer , White hat hacker*
 <p align="center">
 
 # My Skills
