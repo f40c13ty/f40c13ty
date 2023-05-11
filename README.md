@@ -1,5 +1,5 @@
 <p align="center">
-  Hello there 
+  Hello World
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
 <p align="center">
 
@@ -7,7 +7,7 @@
 # My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,linux,wordpress,raspberrypi,bots,vscode,photoshop,premiere,illustrator,audition,xd" />
+    <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,linux,wordpress,raspberrypi,bots,vscode,photoshop,premiere,illustrator,audition,xd,cinema4d" />
   </a>
 </p>
 <p align="center">
