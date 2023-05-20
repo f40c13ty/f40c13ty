@@ -34,9 +34,10 @@
  
   <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=imReaxo&show_icons=true&theme=highcontrast" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imReaxo&hide=html&layout=compact&theme=highcontrast" />
-
-<a href="https://www.coffeebede.com/reaxo"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>    
- 
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imReaxo&hide=html&layout=compact&theme=highcontrast" />  
  </div>
  </details>
+  
+# Donate
+  
+<a href="https://www.coffeebede.com/reaxo"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>   
